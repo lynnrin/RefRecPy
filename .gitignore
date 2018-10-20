@@ -1,0 +1,10 @@
+*.csv
+*.xml
+*.ipynb
+*.DS_Store
+/.vscode
+/ant/*
+/.ipynb_checkpoints
+*.out
+/test.py
+
