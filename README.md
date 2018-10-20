@@ -1,4 +1,5 @@
 # Refactoring Recomendation Python ver.
 
-### prototype unfinished
+### unfinished
+made it for the testing.
 
